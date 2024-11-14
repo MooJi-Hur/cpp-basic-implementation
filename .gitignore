@@ -90,4 +90,8 @@ Temporary Items
 ### build
 out/*
 
+### input output text files
+problem-set/*/input.txt
+problem-set/*/output.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,c++,visualstudiocode
