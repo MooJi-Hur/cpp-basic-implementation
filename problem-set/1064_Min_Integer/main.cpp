@@ -17,8 +17,7 @@ int main(void) {
 
   cin >> firstValue >> secondValue >> thirdValue;
 
-  secondValue < thirdValue ? (minCandidate = secondValue)
-                           : (minCandidate = thirdValue);
+  minCandidate = secondValue < thirdValue ? secondValue : thirdValue;
 
   cout << (firstValue < minCandidate ? firstValue : minCandidate) << endl;
 
