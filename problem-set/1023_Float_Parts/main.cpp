@@ -11,25 +11,43 @@
 using namespace std;
 
 int main(void) {
-  float fullValue, integerPart, fractionalPart;
-  int fractionalPlaces = 0;
+  double fullValue, fullFraction;
+  int integerPart, fractionPart, digit;
+  bool breaked = 0;
+
+  const int maxDigit = 6;
 
   cin >> fullValue;
 
-  // modf : cmath 내장 함수. 실수를 받아서 정수 부분과 실수 부분으로 나눔
-  fractionalPart = modf(fullValue, &integerPart);
+  integerPart = static_cast<int>(fullValue);
 
-  while (fractionalPart != round(fractionalPart)) {
-    if (fractionalPlaces > 5) {
+  fullFraction =
+      integerPart > 0 ? fullValue - integerPart : -(fullValue - integerPart);
+
+  for (int i = 0; i < maxDigit; i++) {
+    float difference;
+
+    fullFraction *= 10;
+
+    digit = static_cast<int>(fullFraction);
+
+    difference = (fullFraction - digit);
+
+    if (difference < 0.000001) {
       break;
     }
 
-    fractionalPlaces++;
-    fractionalPart *= 10;
+    if (difference == 1) {
+      fractionPart = digit + 1;
+      goto PRINT;
+    }
   }
 
+  fractionPart = digit;
+
+PRINT:
   cout << integerPart << endl;
-  cout << fractionalPart << endl;
+  cout << fractionPart << endl;
 
   return 0;
 }
