@@ -12,9 +12,10 @@
 
 ## 고민한 문제 목록
 - 틀린 문제 중 지금은 익숙해진 문제는 제외
+- [wiki](https://github.com/MooJi-Hur/cpp-basic-implementation/wiki)에 공부한 내용 정리
 ---
 - [ ] 1099 : 미로 문제 재정리
-- [x] 1097 : 자료형 set, multiset 이해
+- [x] [1097 : 자료형 set, multiset 이해](https://github.com/MooJi-Hur/cpp-basic-implementation/wiki/1097-:-%EC%9E%90%EB%A3%8C%ED%98%95-set,-multiset-%EC%9D%B4%ED%95%B4)
 - [ ] 1091 : 등차수열과 등비수열 혼합
 - [ ] 1084 : sstream (cout 반복문 사용 시 시간 초과 문제 해결용)
 - [ ] 1048 : 비트 연산
