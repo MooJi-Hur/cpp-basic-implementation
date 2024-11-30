@@ -7,6 +7,9 @@
 - [코드업 문제집 : C언어 기초 100제](https://codeup.kr/problemsetsol.php?psid=23)
 - 각 풀이 상단에 문제 링크 기재
 
+## 참고한 책
+- Bjarne Stroustrup, The C++ Programming Language, Fourth Edition
+
 ## 고민한 문제 목록
 - 틀린 문제 중 지금은 익숙해진 문제는 제외
 ---
