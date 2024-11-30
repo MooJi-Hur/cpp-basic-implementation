@@ -1,7 +1,6 @@
 /*
  * Problem: 1087 Stop_At_Limit
  * URL: https://codeup.kr/problem.php?id=1087
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1057 Equal_Boolean
  * URL: https://codeup.kr/problem.php?id=1057
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

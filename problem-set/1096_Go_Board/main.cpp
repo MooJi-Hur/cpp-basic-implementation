@@ -1,7 +1,6 @@
 /*
  * Problem: 1096 Go_Board
  * URL: https://codeup.kr/problem.php?id=1096
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

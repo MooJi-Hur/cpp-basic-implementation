@@ -1,7 +1,6 @@
 /*
  * Problem: 1058 Both_False
  * URL: https://codeup.kr/problem.php?id=1058
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

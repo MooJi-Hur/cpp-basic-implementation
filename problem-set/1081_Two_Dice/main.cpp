@@ -1,7 +1,6 @@
 /*
  * Problem: 1081 Two_Dice
  * URL: https://codeup.kr/problem.php?id=1081
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

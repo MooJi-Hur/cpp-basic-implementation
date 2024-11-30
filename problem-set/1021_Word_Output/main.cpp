@@ -1,7 +1,6 @@
 /*
  * Problem: 1021 Word_Output
  * URL: https://codeup.kr/problem.php?id=1021
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

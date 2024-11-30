@@ -1,7 +1,6 @@
 /*
  * Problem: 1050 Compare_Two_Integers_2
  * URL: https://codeup.kr/problem.php?id=1050
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1090 Sequence_2
  * URL: https://codeup.kr/problem.php?id=1090
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1054 And_Boolean
  * URL: https://codeup.kr/problem.php?id=1054
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

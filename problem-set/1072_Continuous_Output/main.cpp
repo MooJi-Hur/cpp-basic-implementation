@@ -1,7 +1,6 @@
 /*
  * Problem: 1072 Continuous_Output
  * URL: https://codeup.kr/problem.php?id=1072
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

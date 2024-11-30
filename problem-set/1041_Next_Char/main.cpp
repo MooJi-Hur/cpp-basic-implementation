@@ -1,7 +1,6 @@
 /*
  * Problem: 1041 Next_Char
  * URL: https://codeup.kr/problem.php?id=1041
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

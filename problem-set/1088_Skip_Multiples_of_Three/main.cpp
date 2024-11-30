@@ -1,7 +1,6 @@
 /*
  * Problem: 1088 Skip_Multiples_of_Three
  * URL: https://codeup.kr/problem.php?id=1088
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

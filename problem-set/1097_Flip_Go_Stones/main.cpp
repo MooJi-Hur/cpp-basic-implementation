@@ -1,7 +1,6 @@
 /*
  * Problem: 1097 Flip_Go_Stones
  * URL: https://codeup.kr/problem.php?id=1097
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1065 Even_Numbers
  * URL: https://codeup.kr/problem.php?id=1065
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1073 Infinite_Output_Zero
  * URL: https://codeup.kr/problem.php?id=1073
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here
@@ -16,7 +15,7 @@ int main(void) {
   while (inValue != 0) {
     cout << inValue << endl;
     cin >> inValue;
-    }
+  }
 
   return 0;
 }

@@ -1,7 +1,6 @@
 /*
  * Problem: 1064 Min_Integer
  * URL: https://codeup.kr/problem.php?id=1064
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

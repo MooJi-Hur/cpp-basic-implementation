@@ -115,7 +115,6 @@ for problem_num in "${!problems[@]}"; do
     echo "/*" > "$folder_name/main.cpp"
     echo " * Problem: ${problem_num} ${problems[$problem_num]}" >> "$folder_name/main.cpp"
     echo " * URL: https://codeup.kr/problem.php?id=${problem_num}" >> "$folder_name/main.cpp"
-    echo " * Description: [Add description here if needed]" >> "$folder_name/main.cpp"
     echo " */" >> "$folder_name/main.cpp"
     echo "" >> "$folder_name/main.cpp"
     echo "// Solution code starts here" >> "$folder_name/main.cpp"

@@ -1,7 +1,6 @@
 /*
  * Problem: 1061 Bitwise_OR
  * URL: https://codeup.kr/problem.php?id=1061
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

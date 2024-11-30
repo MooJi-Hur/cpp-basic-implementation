@@ -1,7 +1,6 @@
 /*
  * Problem: 1014 Two_Chars_Swapped
  * URL: https://codeup.kr/problem.php?id=1014
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

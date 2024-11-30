@@ -1,7 +1,6 @@
 /*
  * Problem: 1066 Even_Odd
  * URL: https://codeup.kr/problem.php?id=1066
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

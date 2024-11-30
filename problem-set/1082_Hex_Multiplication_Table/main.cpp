@@ -1,7 +1,6 @@
 /*
  * Problem: 1082 Hex_Multiplication_Table
  * URL: https://codeup.kr/problem.php?id=1082
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

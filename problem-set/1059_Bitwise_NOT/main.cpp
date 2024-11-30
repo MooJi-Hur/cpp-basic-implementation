@@ -1,7 +1,6 @@
 /*
  * Problem: 1059 Bitwise_NOT
  * URL: https://codeup.kr/problem.php?id=1059
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

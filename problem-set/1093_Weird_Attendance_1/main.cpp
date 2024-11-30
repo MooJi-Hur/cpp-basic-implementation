@@ -1,7 +1,6 @@
 /*
  * Problem: 1093 Weird_Attendance_1
  * URL: https://codeup.kr/problem.php?id=1093
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

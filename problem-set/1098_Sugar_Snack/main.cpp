@@ -1,7 +1,6 @@
 /*
  * Problem: 1098 Sugar_Snack
  * URL: https://codeup.kr/problem.php?id=1098
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

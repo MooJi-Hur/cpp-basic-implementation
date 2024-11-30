@@ -1,7 +1,6 @@
 /*
  * Problem: 1086 Image_File_Size
  * URL: https://codeup.kr/problem.php?id=1086
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

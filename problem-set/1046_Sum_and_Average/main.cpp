@@ -1,7 +1,6 @@
 /*
  * Problem: 1046 Sum_and_Average
  * URL: https://codeup.kr/problem.php?id=1046
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

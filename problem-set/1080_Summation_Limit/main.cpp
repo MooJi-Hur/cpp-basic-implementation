@@ -1,7 +1,6 @@
 /*
  * Problem: 1080 Summation_Limit
  * URL: https://codeup.kr/problem.php?id=1080
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

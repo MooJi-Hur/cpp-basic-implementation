@@ -1,7 +1,6 @@
 /*
  * Problem: 1012 Float_Output
  * URL: https://codeup.kr/problem.php?id=1012
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

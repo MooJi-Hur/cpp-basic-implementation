@@ -1,7 +1,6 @@
 /*
  * Problem: 1083 Three_Six_Nine_Game
  * URL: https://codeup.kr/problem.php?id=1083
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1069 Grade_Output
  * URL: https://codeup.kr/problem.php?id=1069
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1078 Even_Sum
  * URL: https://codeup.kr/problem.php?id=1078
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

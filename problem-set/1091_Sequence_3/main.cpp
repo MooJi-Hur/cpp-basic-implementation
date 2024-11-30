@@ -1,7 +1,6 @@
 /*
  * Problem: 1091 Sequence_3
  * URL: https://codeup.kr/problem.php?id=1091
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

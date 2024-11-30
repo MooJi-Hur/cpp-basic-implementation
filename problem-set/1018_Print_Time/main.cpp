@@ -1,7 +1,6 @@
 /*
  * Problem: 1018 Print_Time
  * URL: https://codeup.kr/problem.php?id=1018
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

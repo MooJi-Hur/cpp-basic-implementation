@@ -1,7 +1,6 @@
 /*
  * Problem: 1020 ID_Output_Modified
  * URL: https://codeup.kr/problem.php?id=1020
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

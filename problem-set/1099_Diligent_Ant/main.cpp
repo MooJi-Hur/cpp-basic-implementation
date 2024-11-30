@@ -1,7 +1,6 @@
 /*
  * Problem: 1099 Diligent_Ant
  * URL: https://codeup.kr/problem.php?id=1099
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1062 Bitwise_XOR
  * URL: https://codeup.kr/problem.php?id=1062
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

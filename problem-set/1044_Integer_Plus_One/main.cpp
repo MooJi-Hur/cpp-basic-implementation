@@ -1,7 +1,6 @@
 /*
  * Problem: 1044 Integer_Plus_One
  * URL: https://codeup.kr/problem.php?id=1044
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1038 Sum_Two_Integers
  * URL: https://codeup.kr/problem.php?id=1038
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

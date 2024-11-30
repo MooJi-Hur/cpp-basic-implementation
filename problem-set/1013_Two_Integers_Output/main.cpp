@@ -1,7 +1,6 @@
 /*
  * Problem: 1013 Two_Integers_Output
  * URL: https://codeup.kr/problem.php?id=1013
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

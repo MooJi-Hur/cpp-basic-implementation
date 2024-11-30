@@ -1,7 +1,6 @@
 /*
  * Problem: 1045 Auto_Calculations
  * URL: https://codeup.kr/problem.php?id=1045
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1092 Group_Problem_Solving
  * URL: https://codeup.kr/problem.php?id=1092
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

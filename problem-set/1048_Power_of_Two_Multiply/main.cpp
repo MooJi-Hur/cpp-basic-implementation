@@ -1,7 +1,6 @@
 /*
  * Problem: 1048 Power_of_Two_Multiply
  * URL: https://codeup.kr/problem.php?id=1048
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

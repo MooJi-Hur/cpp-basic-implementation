@@ -1,7 +1,6 @@
 /*
  * Problem: 1027 Date_Format
  * URL: https://codeup.kr/problem.php?id=1027
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

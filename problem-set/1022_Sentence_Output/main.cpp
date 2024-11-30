@@ -1,7 +1,6 @@
 /*
  * Problem: 1022 Sentence_Output
  * URL: https://codeup.kr/problem.php?id=1022
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

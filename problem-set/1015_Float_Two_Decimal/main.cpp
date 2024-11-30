@@ -1,7 +1,6 @@
 /*
  * Problem: 1015 Float_Two_Decimal
  * URL: https://codeup.kr/problem.php?id=1015
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

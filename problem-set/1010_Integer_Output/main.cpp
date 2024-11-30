@@ -1,7 +1,6 @@
 /*
  * Problem: 1010 Integer_Output
  * URL: https://codeup.kr/problem.php?id=1010
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

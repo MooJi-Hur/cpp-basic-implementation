@@ -1,7 +1,6 @@
 /*
  * Problem: 1035 Hex_to_Octal
  * URL: https://codeup.kr/problem.php?id=1035
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

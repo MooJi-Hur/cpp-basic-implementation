@@ -1,7 +1,6 @@
 /*
  * Problem: 1067 Analyze_Integer
  * URL: https://codeup.kr/problem.php?id=1067
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

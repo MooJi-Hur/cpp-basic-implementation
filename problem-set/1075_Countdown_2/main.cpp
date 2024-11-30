@@ -1,7 +1,6 @@
 /*
  * Problem: 1075 Countdown_2
  * URL: https://codeup.kr/problem.php?id=1075
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

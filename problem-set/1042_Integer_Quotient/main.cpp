@@ -1,7 +1,6 @@
 /*
  * Problem: 1042 Integer_Quotient
  * URL: https://codeup.kr/problem.php?id=1042
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1052 Compare_Two_Integers_4
  * URL: https://codeup.kr/problem.php?id=1052
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1037 Integer_to_ASCII
  * URL: https://codeup.kr/problem.php?id=1037
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

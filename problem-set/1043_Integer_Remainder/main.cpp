@@ -1,7 +1,6 @@
 /*
  * Problem: 1043 Integer_Remainder
  * URL: https://codeup.kr/problem.php?id=1043
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1085 Audio_File_Size
  * URL: https://codeup.kr/problem.php?id=1085
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1056 XOR_Boolean
  * URL: https://codeup.kr/problem.php?id=1056
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

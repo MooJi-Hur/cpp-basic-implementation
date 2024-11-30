@@ -1,7 +1,6 @@
 /*
  * Problem: 1024 Word_Split
  * URL: https://codeup.kr/problem.php?id=1024
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

@@ -1,7 +1,6 @@
 /*
  * Problem: 1040 Integer_Negate
  * URL: https://codeup.kr/problem.php?id=1040
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

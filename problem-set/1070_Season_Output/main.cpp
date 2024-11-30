@@ -1,7 +1,6 @@
 /*
  * Problem: 1070 Season_Output
  * URL: https://codeup.kr/problem.php?id=1070
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

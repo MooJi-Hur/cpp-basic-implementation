@@ -1,7 +1,6 @@
 /*
  * Problem: 1023 Float_Parts
  * URL: https://codeup.kr/problem.php?id=1023
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

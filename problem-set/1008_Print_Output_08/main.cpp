@@ -1,7 +1,6 @@
 /*
  * Problem: 1008 Print_Output_08
  * URL: https://codeup.kr/problem.php?id=1008
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

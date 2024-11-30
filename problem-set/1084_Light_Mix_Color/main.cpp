@@ -1,7 +1,6 @@
 /*
  * Problem: 1084 Light_Mix_Color
  * URL: https://codeup.kr/problem.php?id=1084
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

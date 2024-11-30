@@ -1,7 +1,6 @@
 /*
  * Problem: 1060 Bitwise_AND
  * URL: https://codeup.kr/problem.php?id=1060
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

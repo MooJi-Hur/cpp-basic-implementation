@@ -1,7 +1,6 @@
 /*
  * Problem: 1017 Integer_Three_Times
  * URL: https://codeup.kr/problem.php?id=1017
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

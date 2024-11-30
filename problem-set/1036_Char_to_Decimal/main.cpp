@@ -1,7 +1,6 @@
 /*
  * Problem: 1036 Char_to_Decimal
  * URL: https://codeup.kr/problem.php?id=1036
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

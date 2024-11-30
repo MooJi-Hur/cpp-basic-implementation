@@ -1,7 +1,6 @@
 /*
  * Problem: 1025 Integer_Split
  * URL: https://codeup.kr/problem.php?id=1025
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

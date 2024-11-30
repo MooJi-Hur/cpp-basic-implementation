@@ -1,7 +1,6 @@
 /*
  * Problem: 1019 Date_Output
  * URL: https://codeup.kr/problem.php?id=1019
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here

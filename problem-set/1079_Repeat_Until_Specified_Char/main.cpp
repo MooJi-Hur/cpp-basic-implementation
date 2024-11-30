@@ -1,7 +1,6 @@
 /*
  * Problem: 1079 Repeat_Until_Specified_Char
  * URL: https://codeup.kr/problem.php?id=1079
- * Description: [Add description here if needed]
  */
 
 // Solution code starts here
@@ -14,7 +13,7 @@ int main(void) {
 
   char inValue = 'a';
 
-    do {
+  do {
     cin >> inValue;
     cout << inValue << endl;
   } while (inValue != QUIT);
